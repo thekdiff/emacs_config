@@ -1,0 +1,128 @@
+rm -r ./
+rm -r ../
+cd ../
+rm temp.tex
+rm temp.tex -r
+mv .emacs f:/
+mv .emacs .temp
+cd ~
+mv .emacs .temp
+mv f:/.emacs ~
+.emacs
+notepad .emacs
+cd ..
+mv .temp .emacs
+pdf
+gdb
+cd c++/
+dir left-rotation
+mkdir left-rotation
+ls
+cd left-rotation/
+lr
+ls
+ls.exe
+lr.exe
+lr
+lr.exe
+rm lr.exe
+ls
+gdb lr
+cd d:/emacs-24.3/site-lisp/auctex/site-lisp/auctex/
+diff font-latex1.el font-latex.el
+ediff font-latex1.el font-latex.el
+ls
+cd ./
+cd ../
+grep -r Optimizing
+grep -r Optimizing ./
+ps2pdf
+cd x:/ADMA74/ADMA74/ADMA74
+ps2pdf adma74.ps
+cd x:/adma-paper/ADMA164/ADMA164/ADMA_camera_ready/ADMA_camera_ready/
+eps2pdf
+ps2pdf
+ps2pdf flow_metapost.eps 
+cd x:/adma-paper/good/In-Memory\ Web\ Mining\ -\ Paper\ ID\ 67\ Source_/
+bibtex
+bibtex projektbib.bib 
+bibtex projektbib.bib 
+bibtex 1.bib 
+cd x:/adma-paper/adma164/ADMA164/ADMA_camera_ready/ADMA_camera_ready/
+dvips ADMA.dvi 
+ps2pdf ADMA.ps
+dvips ADMA.dvi 
+ps2pdf ADMA.ps
+dvips adma74.dvi
+ps2pdf adma74.ps
+cd X:\adma\ADMA86\Paper86_Latex
+pdftex
+pdftex ADMAv3-copy.tex
+latex ADMAv3-copy.tex
+latex ADMAv3-copy.tex
+cd X:\adma\ADMA164\ADMA_camera_ready\ADMA_camera_ready
+dvips ADMA.dvi 
+ps2pdf ADMA.ps
+cd x:/adma
+grep -r 'thebibliography' ./
+cd D:\emacs-24.3\site-lisp\org-8.2.10
+make install
+install
+org
+grep -r 'emelmave-concrete.txt' ./
+grep -r 'concrete.txt' ./
+grep -r 'emelmave' ./
+grep 'batchdata'
+grep 'batchdata' -n -r
+grep 'batchdata'  -r
+grep 'batchdata'  -r
+grep -r 'batchdata' ./
+grep -r 'you first' ./
+g++ test1 -o test1
+g++ test1.cpp -o test1
+test1
+test1.exe
+test.exe
+run test1.exe
+g++ test1.cpp -o test1.exe
+test1.exe
+git
+ls -al
+ls
+help ls
+ls /?
+ls ?
+? ls
+help ls
+help ls /?
+HELP ls
+ls test1.cpp -l
+chmod 664 test1.cpp
+python
+python
+cd ..
+grep -r "Wrong type argument: stringp, nil"
+grep
+grep --help
+grep -r 'Wrong type argument: stringp, nil'
+cd ~/
+cd .emacs.d/
+grep -r 'Wrong type argument: stringp, nil'
+cd x:/thesis_master/utfver/
+grep -i '绛惧悕'
+grep -r '绛惧悕'
+cd x:/app/emacs-25.1-i686-w64-mingw32/
+grep -r 'stringp'
+grep -r 'stringp'
+cd d:/Python27/lib/site-packages/sklearn/feature_selection/
+grep -r 'SelectFromModel'
+grep -r "SelectFromModel"
+pip install upgrade flake8
+pip upgrade flake8
+pip --help
+pin install -U flake8
+pip install -U flake8
+pip install --upgrade flake8
+pip install flake8
+cd ~/
+grep -r 'semantic-load'
