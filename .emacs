@@ -570,3 +570,4 @@ menucolor=blue]{hyperref}
 (setq aw-keys '(?a ?s ?d ?f ?g ?h ?j ?k ?l))
 (setq aw-background nil)
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; it's a test of git
